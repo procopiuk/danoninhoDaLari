@@ -1,11 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Matemasie&family=Nerko+One&family=Noto+Sans+KR:wght@100..900&display=swap');
 
-.imgcentro{
-    width: 30%;
-    border-radius: 10px;
-
-    justify-content: center;
-}
 
 body{
     background-color: rgb(173, 118, 126);
@@ -17,7 +11,15 @@ body{
     padding: 30px;
     border: double 5px rgb(160, 12, 37);
     display: flex;
+    flex-wrap: wrap;
 }
+
+.imgcentro{
+    width: 30%;
+    border-radius: 10px;
+    justify-content: center;
+}
+
 
 h1{
     padding: 0;
