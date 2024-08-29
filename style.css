@@ -9,6 +9,8 @@ body{
 }
 
 h1{
-   font-family:  @import url('https://fonts.googleapis.com/css2?family=Matemasie&family=Nerko+One&display=swap');
+    font-family: "Nerko One", cursive;
+    text-align: center;
+   
 
 }
