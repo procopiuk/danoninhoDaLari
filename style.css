@@ -3,7 +3,7 @@
 .imgcentro{
     width: 30%;
     border-radius: 10px;
-    display: flex;
+
     justify-content: center;
 }
 
@@ -16,6 +16,7 @@ body{
     margin-right: 20px;
     padding: 30px;
     border: double 5px rgb(160, 12, 37);
+    display: flex;
 }
 
 h1{
